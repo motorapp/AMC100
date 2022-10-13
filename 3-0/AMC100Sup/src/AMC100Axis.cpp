@@ -13,8 +13,8 @@
 // Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA.
 //
 // Contact details:
-// cliftm@ansto.gov.au
-// 800 Blackburn Road, Clayton, Victoria 3168, Australia.
+// Mark Clift
+// padmoz@tpg.com.au
 //
 
 #include <stdio.h>
