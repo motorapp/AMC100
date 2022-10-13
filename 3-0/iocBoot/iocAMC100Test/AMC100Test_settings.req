@@ -1,0 +1,16 @@
+# scan and SaveData settings
+file standardScans_settings.req P=$(IOC)
+file saveData_settings.req P=$(IOC)
+
+# Controller settings that motorRecord does not support
+file "amc100_dmc_ctrl.req" P=$(P)
+
+# Motor record settings
+# Real motors
+file "motor_settings.req" P=$(P), M=MTR1
+file "motor_settings.req" P=$(P), M=MTR2
+file "motor_settings.req" P=$(P), M=MTR3
+
+file "amc100_motor_settings.req" P=$(P), M=MTR1
+file "amc100_motor_settings.req" P=$(P), M=MTR2
+file "amc100_motor_settings.req" P=$(P), M=MTR3

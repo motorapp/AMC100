@@ -1,0 +1,11 @@
+SUPPORT=isnt_really_needed_but_has_to_be_defined_and_so_does_EPICS_BASE_and_in_this_order
+EPICS_BASE=/beamline/perforce/Dev/SBS/4_Controls/4_3_Network_Infrastructure/4_3_1_Comms_Common_Services/sw/epics/base-7-0-4-1
+AUTOSAVE=/beamline/perforce/Dev/SBS/4_Controls/4_3_Network_Infrastructure/4_3_1_Comms_Common_Services/sw/epics/autosave-5-10-2
+SNCSEQ=/beamline/perforce/Dev/SBS/4_Controls/4_3_Network_Infrastructure/4_3_1_Comms_Common_Services/sw/epics/seq-2-2-9
+SSCAN=/beamline/perforce/Dev/SBS/4_Controls/4_3_Network_Infrastructure/4_3_1_Comms_Common_Services/sw/epics/sscan-master
+CALC=/beamline/perforce/Dev/SBS/4_Controls/4_3_Network_Infrastructure/4_3_1_Comms_Common_Services/sw/epics/calc-3-7-4
+ASYN=/beamline/perforce/Dev/SBS/4_Controls/4_3_Network_Infrastructure/4_3_1_Comms_Common_Services/sw/epics/asyn-4-42
+BUSY=/beamline/perforce/Dev/SBS/4_Controls/4_3_Network_Infrastructure/4_3_1_Comms_Common_Services/sw/epics/busy-1-7-3
+MOTOR=/beamline/perforce/Dev/SBS/4_Controls/4_3_Network_Infrastructure/4_3_1_Comms_Common_Services/sw/epics/motor-7-2-2
+AMC100=/beamline/perforce/Dev/SBS/4_Controls/4_3_Network_Infrastructure/4_3_1_Comms_Common_Services/sw/device_drivers/AMC100/
+IPAC=/beamline/perforce/Dev/SBS/4_Controls/4_3_Network_Infrastructure/4_3_1_Comms_Common_Services/sw/epics/ipac-2-16
